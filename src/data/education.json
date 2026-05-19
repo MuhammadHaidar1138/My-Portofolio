@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "degree": "Software and Game Development",
+    "institution": "SMK Wikrama Bogor",
+    "location": "Bogor Regency, Indonesia",
+    "startDate": "2023",
+    "endDate": "2026",
+    "gpa": null,
+    "description": "Focused on web development, mobile development, and software engineering fundamentals.",
+    "highlights": [
+      "Built web applications using Laravel, React and Vue",
+      "Developed mobile applications using Flutter",
+      "Learned REST API development with Lumen",
+      "Participated in internship programs"
+    ]
+  }
+]

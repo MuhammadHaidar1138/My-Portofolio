@@ -1,0 +1,30 @@
+{
+  "name": "Muhammad Haidar",
+  "title": "Full Stack Developer",
+  "typingRoles": [
+    "Laravel & Lumen Developer",
+    "React Frontend Developer",
+    "Flutter Mobile Developer",
+    "REST API Engineer",
+    "Problem Solver"
+  ],
+  "bio": "I am a Full Stack Developer passionate about building modern web and mobile applications. I enjoy creating scalable backend systems, developing responsive user interfaces, and integrating APIs to deliver efficient digital solutions.",
+  "bioExtended": "I have experience developing various personal and internship projects using Laravel/Lumen, React, Flutter, and MySQL. From building REST APIs to creating responsive frontend applications, I enjoy turning ideas into functional products. I am highly motivated to learn new technologies, improve my problem-solving skills, and grow as a software developer.",
+  "location": "Bogor Regency, Indonesia",
+  "email": "mhmmdhaidar1138@gmail.com",
+  "phone": "+62 838 0422 9452",
+  "availability": "Open to opportunities",
+  "avatar": "/images/avatar.jpg",
+  "resume": "/pdf/CV-Muhammad-Haidar.pdf",
+  "social": {
+    "github": "https://github.com/MuhammadHaidar1138",
+    "linkedin": "https://linkedin.com/in/mhmmdhaidar",
+    "email": "mailto:mhmmdhaidar1138@gmail.com"
+  },
+  "stats": [
+    { "label": "Years Experience", "value": "1+" },
+    { "label": "Projects Built", "value": "10+" },
+    { "label": "Certificates Earned", "value": "20+" },
+    { "label": "Tech Stack Experience", "value": "10+" }
+  ]
+}

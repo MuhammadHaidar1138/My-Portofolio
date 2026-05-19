@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "role": "Full Stack Developer Intern",
+    "company": "CV IDS Rumah Pendidikan Indonesia",
+    "location": "Bogor, Indonesia",
+    "type": "Internship",
+    "startDate": "Feb 2026",
+    "endDate": "Jul 2026",
+    "current": false,
+    "description": "Developed frontend pages and backend APIs for school health and religious activity systems.",
+    "highlights": [
+      "Developed UKS Ceremony Visit page using Laravel",
+      "Built Hand Wash REST API using Laravel Lumen",
+      "Developed Hand Wash management page using Laravel",
+      "Built PHBS Practice Summary page using Laravel",
+      "Developed LPK REST API using Laravel Lumen",
+      "Built Quran Recitation REST API using Laravel Lumen",
+      "Implemented dynamic drawer menu visibility in Laravel",
+      "Developed Quran Recitation Practice page using Laravel"
+    ],
+    "technologies": [
+      "Laravel",
+      "Laravel Lumen",
+      "MySQL",
+      "REST API",
+      "Git"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Fullstack & Mobile Developer Intern",
+    "company": "CV IDS Rumah Pendidikan Indonesia",
+    "location": "Bogor, Indonesia",
+    "type": "Internship",
+    "startDate": "Jul 2025",
+    "endDate": "Dec 2025",
+    "current": false,
+    "description": "Worked on backend API development and mobile application features for school health systems.",
+    "highlights": [
+      "Developed Permission Letter page using Flutter",
+      "Built Vital Signs REST API using Laravel Lumen",
+      "Developed Vital Sign management page using Laravel",
+      "Built UKS Visit Ceremony API using Laravel Lumen",
+      "Developed UKS Regular Learning Visit API using Laravel Lumen"
+    ],
+    "technologies": [
+      "Flutter",
+      "Laravel",
+      "Laravel Lumen",
+      "MySQL",
+      "REST API",
+      "Git"
+    ]
+  }
+]

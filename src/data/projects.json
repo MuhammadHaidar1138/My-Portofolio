@@ -1,0 +1,179 @@
+[
+  {
+    "id": 1,
+    "title": "MyLibrary",
+    "description": "Web application for managing and tracking student library book borrowing activities with integrated database support.",
+    "image": "/images/Projects/library.png",
+    "technologies": ["React", "Chart.js", "JavaScript", "Bootstrap", "MySQL", "REST API"],
+    "github": "https://github.com/MuhammadHaidar1138/MyLibrary-App",
+    "demo": null,
+    "category": "Frontend",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "title": "Weather Detector",
+    "description": "Web application for displaying real-time weather information and forecasts.",
+    "image": "/images/Projects/weather-detector.png",
+    "technologies": ["React", "JavaScript", "Bootstrap"],
+    "github": "https://github.com/MuhammadHaidar1138/WeatherDetector-App",
+    "demo": null,
+    "category": "Frontend",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Inventory Management System",
+    "description": "Web application for managing and tracking inventory levels and stock movements.",
+    "image": "/images/Projects/inventaris.png",
+    "technologies": ["React", "JavaScript", "Bootstrap"],
+    "github": "https://github.com/MuhammadHaidar1138/inventaris-consume-ReactJS",
+    "demo": null,
+    "category": "Frontend",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Vital Sign Management Page",
+    "description": "Web-based dashboard for monitoring and managing student vital sign records with responsive UI.",
+    "image": "/images/Projects/vital-sign.png",
+    "technologies": ["Laravel", "Blade", "JavaScript", "Bootstrap"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Frontend",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "UKS Ceremony Visit Page",
+    "description": "Frontend web page for managing and displaying UKS visit data during school ceremonies with filtering and table features.",
+    "image": "/images/Projects/ceremony.png",
+    "technologies": ["Laravel", "Blade", "JavaScript", "Bootstrap"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Frontend",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Hand Wash Management Page",
+    "description": "Web page for monitoring and managing student hand washing practice activities.",
+    "image": "/images/Projects/hand-wash.png",
+    "technologies": ["Laravel", "Blade", "JavaScript", "Bootstrap"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Frontend",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "PHBS Practice Summary Page",
+    "description": "Dashboard for displaying PHBS practice statistics and student activity summaries.",
+    "image": "/images/Projects/summary.png",
+    "technologies": ["Laravel", "Blade", "JavaScript", "Bootstrap"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Frontend",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Quran Recitation Practice Page",
+    "description": "Web application page for managing and monitoring student Quran recitation activities with API integration.",
+    "image": "/images/Projects/reciting-alquran.png",
+    "technologies": ["Laravel", "Blade", "JavaScript", "Bootstrap"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Frontend",
+    "featured": false
+  },
+
+  {
+    "id": 9,
+    "title": "Permission Letter Application",
+    "description": "Mobile application feature for submitting and managing student permission letters with API integration.",
+    "image": "/images/Projects/flutter.jpg",
+    "technologies": ["Flutter", "Dart", "REST API"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Mobile App",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "Ticketing Application",
+    "description": "Mobile application for managing and tracking ticketing activities with database support and authentication.",
+    "image": "/images/Projects/flutter.jpg",
+    "technologies": ["Flutter", "Dart", "Firebase"],
+    "github": "https://github.com/MuhammadHaidar1138/Ticketing-MobileApp",
+    "demo": null,
+    "category": "Mobile App",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "Vital Signs API",
+    "description": "REST API system for managing student health vital sign records.",
+    "image": "/images/Projects/API.jpg",
+    "technologies": ["Laravel Lumen", "MySQL", "REST API"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Backend",
+    "featured": false
+  },
+  {
+    "id": 12,
+    "title": "UKS Ceremony Visit API",
+    "description": "Backend API for managing student UKS visit data during school ceremonies.",
+    "image": "/images/Projects/API.jpg",
+    "technologies": ["Laravel Lumen", "MySQL", "REST API"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Backend",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "UKS Learning Visit API",
+    "description": "REST API for managing UKS visit activities during regular learning sessions.",
+    "image": "/images/Projects/API.jpg",
+    "technologies": ["Laravel Lumen", "MySQL", "REST API"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Backend",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "Hand Wash API",
+    "description": "REST API system for managing student hand washing practice and hygiene data.",
+    "image": "/images/Projects/API.jpg",
+    "technologies": ["Laravel Lumen", "MySQL", "REST API"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Backend",
+    "featured": false
+  },
+  {
+    "id": 15,
+    "title": "LPK API",
+    "description": "Backend API for managing LPK data operations and integrations in the school system.",
+    "image": "/images/Projects/API.jpg",
+    "technologies": ["Laravel Lumen", "MySQL", "REST API"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Backend",
+    "featured": false
+  },
+  {
+    "id": 16,
+    "title": "Quran Recitation API",
+    "description": "REST API for managing Quran recitation activities, tracking, and reporting.",
+    "image": "/images/Projects/API.jpg",
+    "technologies": ["Laravel Lumen", "MySQL", "REST API"],
+    "github": null,
+    "demo": "https://kejar.id/",
+    "category": "Backend",
+    "featured": false
+  }
+]
