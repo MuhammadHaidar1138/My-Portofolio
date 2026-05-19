@@ -122,7 +122,7 @@ export default function About() {
 
             <a
               href={personal.resume}
-              download="Muhammad-Haidar-Resume.pdf"
+              download="CV-Muhammad-Haidar.pdf"
               className="inline-flex items-center gap-2 text-accent text-sm font-medium hover:gap-3 transition-all duration-200 mt-2"
             >
               Download Resume ↗
